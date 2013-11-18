@@ -1,5 +1,3 @@
 CIS 191 Project 3
 -----------------
-
-This is a demo site that is a simplified version of the CIS 191 website. It is
-used as a testbed/training ground for Git usage and merge conflict resolution.
+1. A bare repository is normally an appropriately named directory with a .git suffix that does not have a locally checked-out copy of any of the files under revision control.
