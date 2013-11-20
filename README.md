@@ -6,7 +6,7 @@ ec3-54-200-167-91.us-west-2.compute.amazonaws.com
 
 <ol>
 
-<li> A bare repo is a repository that does not have a working tree It has a <strong>.gitsubdirectory</strong> in the main directory itself unlike a regular repo </li>
+<li> A bare repo is a repository that does not have a working tree It has a <strong>.git </strong> subdirectory in the main directory itself unlike a regular repo </li>
 
 <li>The python server pushes the contents of www online via 9001.</li>
 
